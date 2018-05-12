@@ -1,0 +1,36 @@
+_repo: Father-Brighthopes--Or-An-Old-Clergyman-s-Vacation_33221
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trowbridge, J. T. (John Townsend)
+    aliases:
+    - Trowbridge, J.T.
+    - Trowbridge, John Townsend
+    birthdate: 1827
+    deathdate: 1916
+    gutenberg_agent_id: '9020'
+    url: http://www.gutenberg.org/2009/agents/9020
+    wikipedia: http://en.wikipedia.org/wiki/John_Townsend_Trowbridge
+description: ''
+gutenberg_issued: '2010-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Clergy -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Farms -- Juvenile fiction'
+title: Father Brighthopes; Or, An Old Clergyman's Vacation
+url: http://www.gutenberg.org/ebooks/33221
